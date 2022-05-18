@@ -1,0 +1,20 @@
+UPDATE employee
+SET name = 'semih', 
+	email = 'semih@gmail.com'
+	WHERE id=1;
+UPDATE employee
+SET name = 'hasan', 
+	email = 'hasan@gmail.com'
+	WHERE id=2;
+UPDATE employee
+SET name = 'berkan', 
+	email = 'berkan@gmail.com'
+	WHERE id=3;
+UPDATE employee
+SET name = 'sarp', 
+	email = 'sarğ@gmail.com'
+	WHERE id=4;
+UPDATE employee
+SET name = 'osman', 
+	email = 'osman@gmail.com'
+	WHERE id=5;
